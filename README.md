@@ -14,9 +14,9 @@
 ## 📊 GitHub Stats
   <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <!-- Sequência de contribuições -->
-  <img height="180em" src="https://streak-stats.demolab.com/?user=JulioDevO&theme=dark&hide_border=true"/>
+  <img height="120em" src="https://streak-stats.demolab.com/?user=JulioDevO&theme=dark&hide_border=true"/>
   <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDevO&layout=compact&theme=dark&hide_border=true&langs_count=6"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDevO&layout=compact&theme=dark&hide_border=true&langs_count=6"/>
   
 </div>
 
