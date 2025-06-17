@@ -13,11 +13,15 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-<div align="center">
-  <a href="https://github.com/JulioDevO">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDevO&layout=compact&theme=dark&hide_border=true"/>
-    <img height="180em" src="https://streak-stats.demolab.com/?user=JulioDevO&theme=dark&hide_border=true"/>
-  </a>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDevO&layout=compact&theme=dark&hide_border=true&langs_count=6"/>
+  
+  <!-- Sequência de contribuições -->
+  <img height="180em" src="https://streak-stats.demolab.com/?user=JulioDevO&theme=dark&hide_border=true"/>
+  
 </div>
 
 ## 🏆 Trophies
